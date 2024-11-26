@@ -233,9 +233,8 @@ We welcome contributions! Please follow these steps:
 
 ## Support
 
-- **Discord Server:** [Join us on Discord](https://discord.gg/your-invite)
-- **Issues:** [Report bugs or request features](https://github.com/gamecooler19/canopus-bot/issues)
-- **Email:** support@canopusdevelopment.com
+- **Discord Server:** [Join us on Discord](https://discord.gg/JUhv27kzcJ)
+- **Issues:** [Report bugs or request features](https://github.com/Canopus-Development/Canopus-bot/issues)
 
 ## License
 
@@ -249,6 +248,6 @@ This project is licensed under the **[Canopus Development License](LICENSE)**.
 
 ---
 
-*Developed by [Gamecooler19 (Pradyumn Tandon)](https://github.com/gamecooler19) and [Canopus Development](https://github.com/canopus-development).*
+*Developed by [Gamecooler19 (Pradyumn Tandon)](https://github.com/gamecooler19) and [Canopus Development](https://github.com/Canopus-Development).*
 
 ---
